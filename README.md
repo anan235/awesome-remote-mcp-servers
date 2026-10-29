@@ -1544,6 +1544,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Zineps](https://mcp.zineps.com/docs/login) `https://mcp.zineps.com/mcp`
   [![Zineps MCP connector](https://glama.ai/mcp/connectors/com.zineps.mcp/zineps/badges/score.svg)](https://glama.ai/mcp/connectors/com.zineps.mcp/zineps)
   🔐 - Manage shipments, shipping labels, orders, invoices, and partner operations with a Zineps account.
+- [EzUGC](https://www.ezugc.ai/mcp) `https://api.ezugc.ai/mcp`
+  🔐 - Generate UGC video ads, avatar ads and image ads for e-commerce brands with Veo, Kling, Seedance and more.
 
 ### 🎓 <a name="education"></a>Education
 
